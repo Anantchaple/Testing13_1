@@ -20,6 +20,8 @@ public class Demo
 		
 		Demo d=new Demo();
 		d.m1();
+		d.m2();
+		
 		
 	}
 
