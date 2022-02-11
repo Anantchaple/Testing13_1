@@ -7,6 +7,11 @@ public class Demo
 		System.out.println("Helllo M1");
 	}
 	
+	public void m2()
+	{
+		System.out.println("Helllo M2");
+	}
+	
 	
 	
 	
