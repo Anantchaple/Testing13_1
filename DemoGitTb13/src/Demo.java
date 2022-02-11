@@ -13,6 +13,13 @@ public class Demo
 	}
 	
 	
+	public void m5()
+	{
+		System.out.println("Helllo M5");
+	}
+	
+	
+	
 		
 	public static void main(String[] args)
 	{
